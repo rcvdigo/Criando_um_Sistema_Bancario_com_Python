@@ -13,3 +13,6 @@
 # Operação de extrato:
 
 - ## Essa operação deve listar todos os depósitos e sques realizados na conta. No fim da listagem deve ser exibido o saldo atual da conta. Os valores devem ser exibidos utilizando o formato R$ xxx.xx, exemplo: 1500.45 = R$ 1500.45
+
+# Exemplo usando o sistema:
+- 
