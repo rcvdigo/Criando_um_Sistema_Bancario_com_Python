@@ -15,4 +15,9 @@
 - ## Essa operação deve listar todos os depósitos e sques realizados na conta. No fim da listagem deve ser exibido o saldo atual da conta. Os valores devem ser exibidos utilizando o formato R$ xxx.xx, exemplo: 1500.45 = R$ 1500.45
 
 # Exemplo usando o sistema:
-- 
+
+- Exemplo de uso do sistema
+    - ![Exemplo de uso do sistema](https://github.com/rcvdigo/Criando_um_Sistema_Bancario_com_Python/blob/009a72a6f407c853585025aadab2224eb14046fb/Exemplo-de-uso-do-sistema.png)
+
+- Exemplo de funcionamento do sistema
+    - ![Exemplo de funcionamento do sistema](https://github.com/rcvdigo/Criando_um_Sistema_Bancario_com_Python/blob/009a72a6f407c853585025aadab2224eb14046fb/Exemplo-de-funcionamento-do-sistema.png)
