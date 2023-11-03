@@ -4,7 +4,7 @@ class Banco:
     GREEN = '\033[92m'
     RED = '\033[91m'
     WHITE = '\033[0m'
-    YELLOW = '\033[93m'
+    YELLOW = '\033[93m' 
 
     def __init__(self):
         self.saldo = 0
